@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
-      <h1>Todo App</h1>
+      <h1>Todo App By Aakash</h1>
       <input
         type="text"
         value={task}
